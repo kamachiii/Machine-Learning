@@ -164,7 +164,7 @@ Machine-Learning/
   - pandas - Data manipulation and analysis
   - numpy - Numerical computing
   - scikit-learn - Machine learning algorithms
-  - matplotlib/seaborn - Data visualization (implied)
+  - matplotlib - Data visualization
 - **Tools:**
   - Jupyter Notebook - Interactive development environment
 
@@ -190,11 +190,11 @@ By completing this course, students will:
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/kamachiii/Machine-Learning.git
+# Clone the repository (replace with your repository URL)
+git clone <your-repository-url>
 cd Machine-Learning
 
-# Install required packages (create requirements.txt as needed)
+# Install required packages
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 ```
 
@@ -231,7 +231,7 @@ For questions or additional information, please refer to the course instructor o
 Please refer to individual dataset licenses. The Bike Sharing Dataset requires citation:
 
 ```
-Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", 
+Hadi Fanaee-T and João Gama, "Event labeling combining ensemble detectors and background knowledge", 
 Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, 
 doi:10.1007/s13748-013-0040-3.
 ```
